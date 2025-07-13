@@ -249,6 +249,7 @@ namespace KodKutuphanesi
 
         //ihtiyaç durumunda yeni metotları buraya ekleyebiliriz.
 
+        //yeni metotlar geldi. Bugün 13.07.2025
 
 
 
